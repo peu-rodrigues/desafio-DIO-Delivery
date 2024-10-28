@@ -1,12 +1,15 @@
 # Meu Projeto
 
-# Welcome to your CDK TypeScript project
+Este é um projeto chamado Delivery Assistant, desenvolvido para facilitar o gerenciamento de entregas. Para a sua criação, utilizei as seguintes ferramentas:
 
-This is a blank project for CDK development with TypeScript.
+TypeScript: Para garantir um código mais seguro e fácil de manter.
+Node.js: Como ambiente de execução para o desenvolvimento do backend.
+Express: Para construir uma API robusta e eficiente.
+MongoDB: Para armazenar dados de forma flexível e escalável.
+Jest: Para realizar testes automatizados e garantir a qualidade do código.
+Sinta-se à vontade para explorar o projeto e verificar como essas tecnologias se integram para oferecer uma experiência de entrega mais eficiente!
 
-The `cdk.json` file tells the CDK Toolkit how to execute your app.
-
-## Useful commands
+## Comandos úteis
 
 * `npm run build`   compile typescript to js
 * `npm run watch`   watch for changes and compile
